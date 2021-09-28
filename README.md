@@ -4,11 +4,11 @@ This project was done in the METE 3100U - Mechatronics Design course at Ontario 
 
 The project was divided into 3 phases, A, B, and C, with each phase building on the previous one. 
 
-**Phase A - Autonomous Navigation**
+**Phase A - Autonomous Navigation**  
 In this phase, the goal of the robot is to travel a minimum 2m distance and execute 5 turns. The robot's coordinates must be displayed and it must return to the starting location within 2 minutes of starting out. 
 
-**Phase B - Package Retrieval with Same Size Packages**
+**Phase B - Package Retrieval with Same Size Packages**  
 In this phase of the project, the goal of the robot is to locate 2 2x4 LEGO Duplo blocks placed randomly in the testing area. The packages are placed in the testing area randomly so the robot must be able to locate them, pick up and drop off within 3 minutes of starting out. 
 
-**Phase C - Package Retrieval with Different Size Packages**
+**Phase C - Package Retrieval with Different Size Packages**  
 This phase builds on Phases A & B. The robot has to locate 2 2x4 LEGO Duplo blocks and 2 2x2 LEGO Duplo blocks in the testing area. The packages are also placed randomly in the testing area so the robot must be able to locate them, pick up and drop off within 4 minutes of starting out. 
