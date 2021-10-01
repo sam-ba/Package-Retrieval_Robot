@@ -13,4 +13,4 @@ In this phase of the project, the goal of the robot is to locate 2 2x4 LEGO Dupl
 **Phase C - Package Retrieval with Different Size Packages**  
 This phase builds on Phases A & B. The robot has to locate 2 2x4 LEGO Duplo blocks and 2 2x2 LEGO Duplo blocks in the testing area. The packages are also placed randomly in the testing area so the robot must be able to locate them, pick up and drop off within 4 minutes of starting out. 
 
-![](Media/Prototype Demonstration.mp4)
+![](Media/Prototype%20Demonstration.mp4)
