@@ -15,4 +15,7 @@ This phase builds on Phases A & B. The robot has to locate 2 2x4 LEGO Duplo bloc
 
 ![](Media/Prototype%20Demonstration.mp4)
 
+**Project Demonstration**  
+A not-so-perfect demonstration of the project is shown below. The robot performed better than this but unfortunately was not filmed :(  
+
 ![](Media/ezgif.com-gif-maker.gif)
